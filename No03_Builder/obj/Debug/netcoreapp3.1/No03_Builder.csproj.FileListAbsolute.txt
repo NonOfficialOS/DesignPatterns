@@ -1,0 +1,9 @@
+D:\SourceCode\DesignPatternsSolution\No03_Builder\bin\Debug\netcoreapp3.1\No03_Builder.deps.json
+D:\SourceCode\DesignPatternsSolution\No03_Builder\bin\Debug\netcoreapp3.1\No03_Builder.dll
+D:\SourceCode\DesignPatternsSolution\No03_Builder\bin\Debug\netcoreapp3.1\No03_Builder.pdb
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.csprojAssemblyReference.cache
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.AssemblyInfoInputs.cache
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.AssemblyInfo.cs
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.csproj.CoreCompileInputs.cache
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.dll
+D:\SourceCode\DesignPatternsSolution\No03_Builder\obj\Debug\netcoreapp3.1\No03_Builder.pdb
