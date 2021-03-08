@@ -81,10 +81,10 @@ namespace No01_Singleton
             //Singleton singleton=new Singleton();
 
             //验证创建的实例都是同一个对象
-            Singleton singleton1 = Singleton.Instance;
-            Singleton singleton2 = Singleton.Instance;
+            //Singleton singleton1 = Singleton.Instance;
+            //Singleton singleton2 = Singleton.Instance;
 
-            Console.WriteLine(Object.ReferenceEquals(singleton1, singleton2) == true);
+            //Console.WriteLine(Object.ReferenceEquals(singleton1, singleton2) == true);
         }
     }
 }

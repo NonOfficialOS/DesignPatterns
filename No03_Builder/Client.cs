@@ -20,7 +20,7 @@ namespace No03_Builder
 
             Assembly assembly = Assembly.Load(assemblyName);
             Type type = assembly.GetType("builderName");
-            Builder builder = Activator.CreateInstance(type);
+            //Builder builder = Activator.CreateInstance(type);
             //固定某一种房子的创建
             House house = GameManager.CreateHouse(new RomanHouseBuilder());
         }
