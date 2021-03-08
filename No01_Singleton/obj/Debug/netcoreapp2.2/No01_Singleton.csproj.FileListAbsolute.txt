@@ -1,0 +1,4 @@
+D:\SourceCode\DesignPatternsSolution\No01_Singleton\obj\Debug\netcoreapp2.2\No01_Singleton.csprojAssemblyReference.cache
+D:\SourceCode\DesignPatternsSolution\No01_Singleton\obj\Debug\netcoreapp2.2\No01_Singleton.AssemblyInfoInputs.cache
+D:\SourceCode\DesignPatternsSolution\No01_Singleton\obj\Debug\netcoreapp2.2\No01_Singleton.AssemblyInfo.cs
+D:\SourceCode\DesignPatternsSolution\No01_Singleton\obj\Debug\netcoreapp2.2\No01_Singleton.csproj.CoreCompileInputs.cache

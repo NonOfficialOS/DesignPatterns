@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "E//aM9lfPtprTIZoZoOi0b1VR6wD1zgO0bR0kicp+iU6faFtx/Y5JOtgGDM+3tp43cEK8uwsSSTRPaMB/Ht9bQ==",
+  "dgSpecHash": "JUw1lyH3u3QaT1M2xm6+TifjkzMG7slPYjQM/1jS4mCUXkLU23GWrMWaON9C0jFw8iP99WDc1+uYNj/8rMXJbg==",
   "success": true,
   "projectFilePath": "D:\\SourceCode\\DesignPatternsSolution\\No01_Singleton\\No01_Singleton.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
