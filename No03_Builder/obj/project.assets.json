@@ -973,24 +973,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felixsun\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Felix Sun\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ATS\\Application\\GitHub\\ProjectsInLearning\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
+      "projectUniqueName": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
       "projectName": "No03_Builder",
-      "projectPath": "D:\\ATS\\Application\\GitHub\\ProjectsInLearning\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
-      "packagesPath": "C:\\Users\\felixsun\\.nuget\\packages\\",
-      "outputPath": "D:\\ATS\\Application\\GitHub\\ProjectsInLearning\\DesignPatternsSolution\\No03_Builder\\obj\\",
+      "projectPath": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
+      "packagesPath": "C:\\Users\\Felix Sun\\.nuget\\packages\\",
+      "outputPath": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\felixsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Felix Sun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -1001,6 +1002,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -1012,6 +1014,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -1025,10 +1028,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

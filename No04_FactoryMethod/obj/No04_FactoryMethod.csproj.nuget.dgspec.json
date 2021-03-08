@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj": {}
+    "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\No04_FactoryMethod.csproj": {}
   },
   "projects": {
-    "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj": {
+    "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\No04_FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
-        "projectName": "No03_Builder",
-        "projectPath": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\No03_Builder.csproj",
+        "projectUniqueName": "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\No04_FactoryMethod.csproj",
+        "projectName": "No04_FactoryMethod",
+        "projectPath": "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\No04_FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\Felix Sun\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\DesignPatternsSolution\\No03_Builder\\obj\\",
+        "outputPath": "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -49,10 +49,6 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "System.Configuration.ConfigurationManager": {
-              "target": "Package",
-              "version": "[5.0.0, )"
             }
           },
           "imports": [

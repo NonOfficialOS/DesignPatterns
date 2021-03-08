@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUw1lyH3u3QaT1M2xm6+TifjkzMG7slPYjQM/1jS4mCUXkLU23GWrMWaON9C0jFw8iP99WDc1+uYNj/8rMXJbg==",
+  "dgSpecHash": "czSuhuusJAY2jW+CdjpOWJLWAaoxJSa4cuo0mOn+7KGDsocSnrDh7U3pEqd6LWGSlszhmDR7MdZTsqG8j8/4ng==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\DesignPatternsSolution\\No01_Singleton\\No01_Singleton.csproj",
+  "projectFilePath": "D:\\SourceCode\\DesignPatternsSolution\\No04_FactoryMethod\\No04_FactoryMethod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\Felix Sun\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
